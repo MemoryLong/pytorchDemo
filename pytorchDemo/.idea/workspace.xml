@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d1a4f37c-04f8-4b95-9dc4-f296a9e771c2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/pytorchDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/SERVER/server_list - 模板.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/SERVER/server_list.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/SERVER/test_dataset.pt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/SERVER/test_features.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/SERVER/test_labels.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/SERVER/train_dataset.pt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/SERVER/train_features.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset/SERVER/train_labels.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loadData.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/lenet5/events.out.tfevents.1732005191.积和" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/lenet5/events.out.tfevents.1732005202.积和" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/lenet5/events.out.tfevents.1732005246.积和" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/lenet5/events.out.tfevents.1732005286.积和" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/visdom.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/makeDataSet/img_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/makeDataSet/initServer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/makeDataSet/makeDataSet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/makeDataSet/time_series_txt_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/makeDataSet/txt_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/marketPaper/ChinesePaper.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/marketPaper/editExcel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/marketPaper/findEdge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/marketPaper/flow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/marketPaper/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/marketPaper/mcaddisplay.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/marketPaper/spiltPaper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/marketPaper/testPaper.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/mnist-LeNet5-0.001-1.model" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/mnist-LeNet5-0.001-100.model" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/mnist-LeNet5-0.001-200.model" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/mnist-LeNet5-0.001-5.model" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/mnist.model" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/server-FULLY-CONNECTED-0.001-30.model" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/server-LSTM-0.001-1.model" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/server-LSTM-0.001-100.model" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/server-LSTM-0.001-16.model" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/server-LSTM-0.001-2.model" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/server-LSTM-0.001-200.model" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/server-LSTM-0.001-4.model" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/server-LSTM-0.001-8.model" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/net/FullyConnected.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/net/LSTM.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/net/TextCNN.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/net/demoNet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/net/lenet5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/net/resnet18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytorchTrain.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/translatIntoImage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util/EarlyStopping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tmall_springboot/tmall_springboot.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2LJTefkNElo3wQqUk4WGi0CK2aW" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.codeium.enabled": "true",
+    "last_opened_file_path": "D:/Dream Future Project/workspace/pytorchDemo/makeDataSet",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.fileTypes",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings>
+        <option name="useSoftWraps" value="true" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Dream Future Project\workspace\pytorchDemo\makeDataSet" />
+      <recent name="D:\Dream Future Project\workspace\pythondemo\pytorchDemo\net" />
+      <recent name="D:\Dream Future Project\workspace\pythondemo\pytorchDemo" />
+      <recent name="D:\Dream Future Project\workspace\pythondemo\modelDemo\data\MNIST\raw" />
+      <recent name="D:\Dream Future Project\workspace\pythondemo\modelDemo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Dream Future Project\workspace\pythondemo" />
+      <recent name="D:\Dream Future Project\workspace\pythondemo\marketPaper" />
+      <recent name="D:\Dream Future Project\workspace\pythondemo\pytorchDemo\makeDataSet" />
+      <recent name="D:\Dream Future Project\workspace\pythondemo\pytorchDemo\sample\SERVER" />
+      <recent name="D:\Dream Future Project\workspace\pythondemo\pytorchDemo\" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.loadData">
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python">
+      <module name="pytorchDemo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="pytorchDemo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\dreamfuture\anaconda3\python.exe" />
+      <option name="SDK_NAME" value="C:\Users\dreamfuture\anaconda3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="findEdge" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="pytorchDemo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/marketPaper/findEdge.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="loadData" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pytorchDemo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\dreamfuture\anaconda3\python.exe" />
+      <option name="SDK_NAME" value="C:\Users\dreamfuture\anaconda3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/loadData.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="makeDataSet" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pytorchDemo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/makeDataSet/makeDataSet.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytorchTrain" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pytorchDemo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pytorchTrain.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pytorchDemo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.__init__" />
+      <item itemvalue="Python.findEdge" />
+      <item itemvalue="Python.loadData" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.makeDataSet" />
+      <item itemvalue="Python.pytorchTrain" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.loadData" />
+        <item itemvalue="Python.makeDataSet" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.pytorchTrain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d1a4f37c-04f8-4b95-9dc4-f296a9e771c2" name="Changes" comment="" />
+      <created>1675588282524</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675588282524</updated>
+      <workItem from="1675588411929" duration="3040000" />
+      <workItem from="1680944321679" duration="168000" />
+      <workItem from="1680961863957" duration="1823000" />
+      <workItem from="1680963708931" duration="793000" />
+      <workItem from="1681401251911" duration="936000" />
+      <workItem from="1682820754080" duration="64000" />
+      <workItem from="1719825710535" duration="594000" />
+      <workItem from="1719890555870" duration="20008000" />
+      <workItem from="1720163249622" duration="4958000" />
+      <workItem from="1720523547748" duration="821000" />
+      <workItem from="1720612304021" duration="2153000" />
+      <workItem from="1720616209301" duration="1250000" />
+      <workItem from="1720617769910" duration="23000" />
+      <workItem from="1720680162019" duration="4154000" />
+      <workItem from="1720695582943" duration="56000" />
+      <workItem from="1720704583292" duration="90000" />
+      <workItem from="1720705510653" duration="1435000" />
+      <workItem from="1720707845052" duration="1206000" />
+      <workItem from="1720709220644" duration="650000" />
+      <workItem from="1720709888311" duration="1923000" />
+      <workItem from="1720713034225" duration="590000" />
+      <workItem from="1720928091394" duration="613000" />
+      <workItem from="1721005941476" duration="609000" />
+      <workItem from="1721212721802" duration="2473000" />
+      <workItem from="1721737943415" duration="721000" />
+      <workItem from="1724051354829" duration="582000" />
+      <workItem from="1724052384768" duration="598000" />
+      <workItem from="1724123593033" duration="1011000" />
+      <workItem from="1724124625350" duration="8343000" />
+      <workItem from="1724145196635" duration="12116000" />
+      <workItem from="1724219635229" duration="6877000" />
+      <workItem from="1724238292402" duration="30554000" />
+      <workItem from="1724758374076" duration="895000" />
+      <workItem from="1725087648473" duration="1298000" />
+      <workItem from="1725174185616" duration="2108000" />
+      <workItem from="1725448651722" duration="2934000" />
+      <workItem from="1725586166942" duration="551000" />
+      <workItem from="1726052338093" duration="1072000" />
+      <workItem from="1726659311390" duration="1905000" />
+      <workItem from="1727088333865" duration="3449000" />
+      <workItem from="1731911013733" duration="29350000" />
+      <workItem from="1732065022932" duration="11976000" />
+      <workItem from="1732089715102" duration="543000" />
+      <workItem from="1732090587092" duration="75000" />
+      <workItem from="1732090688887" duration="3759000" />
+      <workItem from="1732583975063" duration="7744000" />
+      <workItem from="1732601183480" duration="57842000" />
+      <workItem from="1733015598242" duration="6781000" />
+      <workItem from="1733035038099" duration="9803000" />
+      <workItem from="1733056319918" duration="4518000" />
+      <workItem from="1733100636214" duration="67168000" />
+      <workItem from="1733369523818" duration="32894000" />
+      <workItem from="1733536714403" duration="1048000" />
+      <workItem from="1733538088261" duration="821000" />
+      <workItem from="1733732427154" duration="25849000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="19f0103c-ce6f-4f37-a659-5dc7b8173a21">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="2fc60e21-fd73-4a08-a823-f8e5a98dc0ed">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="54d0aea5-4efe-40f6-a863-81c366fbb108">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="54d0aea5-4efe-40f6-a863-81c366fbb108" value="TOOL_WINDOW" />
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pythondemo$main.coverage" NAME="main Coverage Results" MODIFIED="1675588588088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythondemo$editExcel.coverage" NAME="editExcel Coverage Results" MODIFIED="1680963558584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythondemo$flow.coverage" NAME="flow Coverage Results" MODIFIED="1719825749671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythondemo$mcaddisplay.coverage" NAME="mcaddisplay Coverage Results" MODIFIED="1680963619250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
