@@ -4,69 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1a4f37c-04f8-4b95-9dc4-f296a9e771c2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/workspace.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pytorchDemo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/SERVER/server_list - 模板.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/SERVER/server_list.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/SERVER/test_dataset.pt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/SERVER/test_features.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/SERVER/test_labels.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/SERVER/train_dataset.pt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/SERVER/train_features.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataset/SERVER/train_labels.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loadData.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/lenet5/events.out.tfevents.1732005191.积和" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/lenet5/events.out.tfevents.1732005202.积和" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/lenet5/events.out.tfevents.1732005246.积和" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/lenet5/events.out.tfevents.1732005286.积和" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logs/visdom.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/makeDataSet/img_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/makeDataSet/initServer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/makeDataSet/makeDataSet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/makeDataSet/time_series_txt_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/makeDataSet/txt_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/marketPaper/ChinesePaper.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/marketPaper/editExcel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/marketPaper/findEdge.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/marketPaper/flow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/marketPaper/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/marketPaper/mcaddisplay.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/marketPaper/spiltPaper.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/marketPaper/testPaper.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/mnist-LeNet5-0.001-1.model" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/mnist-LeNet5-0.001-100.model" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/mnist-LeNet5-0.001-200.model" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/mnist-LeNet5-0.001-5.model" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/mnist.model" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/server-FULLY-CONNECTED-0.001-30.model" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/server-LSTM-0.001-1.model" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/server-LSTM-0.001-100.model" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/server-LSTM-0.001-16.model" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/server-LSTM-0.001-2.model" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/server-LSTM-0.001-200.model" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/server-LSTM-0.001-4.model" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/server-LSTM-0.001-8.model" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/net/FullyConnected.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/net/LSTM.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/net/TextCNN.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/net/demoNet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/net/lenet5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/net/resnet18.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytorchTrain.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/translatIntoImage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/util/EarlyStopping.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/util/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tmall_springboot/tmall_springboot.iml" afterDir="false" />
+    <list default="true" id="d1a4f37c-04f8-4b95-9dc4-f296a9e771c2" name="Changes" comment="模型训练原型">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -375,8 +314,16 @@
       <workItem from="1733369523818" duration="32894000" />
       <workItem from="1733536714403" duration="1048000" />
       <workItem from="1733538088261" duration="821000" />
-      <workItem from="1733732427154" duration="25849000" />
+      <workItem from="1733732427154" duration="28134000" />
     </task>
+    <task id="LOCAL-00001" summary="模型训练原型">
+      <created>1733911220091</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733911220091</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -421,6 +368,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="模型训练原型" />
+    <option name="LAST_COMMIT_MESSAGE" value="模型训练原型" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pythondemo$main.coverage" NAME="main Coverage Results" MODIFIED="1675588588088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
